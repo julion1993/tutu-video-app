@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/regist/regist",
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "兔兔短视频",
+    "navigationBarTextStyle":"black"
+  }
+}
